@@ -1,3 +1,2 @@
 # Python-Assignments
-List data type assignments
-Tuple data type assignments
+List and Tuple data type assignments
